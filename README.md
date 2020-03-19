@@ -12,3 +12,4 @@
 - 20200316 - 환경변수, apply 함수
 - 20200317 - data.frame na.strings 옵션
 - 20200318 - doBy패키지 
+- 20200319 - sampleBy, merge, aggregate
