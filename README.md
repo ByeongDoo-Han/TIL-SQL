@@ -13,3 +13,4 @@
 - 20200317 - data.frame na.strings 옵션
 - 20200318 - doBy패키지 
 - 20200319 - sampleBy, merge, aggregate
+- 20200320 - sqldf 패키지, tidy data
