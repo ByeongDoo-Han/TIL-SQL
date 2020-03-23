@@ -14,3 +14,4 @@
 - 20200318 - doBy패키지 
 - 20200319 - sampleBy, merge, aggregate
 - 20200320 - sqldf 패키지, tidy data
+- 20200323 - plyr 패키지(adply, ddply),stack, unstack, reshape2 패키지(melt)
