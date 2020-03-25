@@ -15,4 +15,5 @@
 - 20200319 - sampleBy, merge, aggregate
 - 20200320 - sqldf 패키지, tidy data
 - 20200323 - plyr 패키지(adply, ddply),stack, unstack, reshape2 패키지(melt)
-- 20200324 - xlsx✔️reshape2(melt,dcast)✔️dplyr
+- 20200324 - xlsx,reshape2(melt,dcast),dplyr
+- 20200325 - 시각화, plot, axis, lines, title, legend
