@@ -17,3 +17,4 @@
 - 20200323 - plyr 패키지(adply, ddply),stack, unstack, reshape2 패키지(melt)
 - 20200324 - xlsx,reshape2(melt,dcast),dplyr
 - 20200325 - 시각화, plot, axis, lines, title, legend
+- 20200326 - barplot
