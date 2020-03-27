@@ -18,3 +18,4 @@
 - 20200324 - xlsx,reshape2(melt,dcast),dplyr
 - 20200325 - 시각화, plot, axis, lines, title, legend
 - 20200326 - barplot
+- 20200327 - histplot, pieplot, plotrix패키지
