@@ -22,3 +22,4 @@
 - 20200330 - 데이터분석, Decision Tree, 모델링, 시각화
 - 20200331 - parallel, 지니불순도, randomforest 회귀분석
 - 20200401 - 스케일 표준화, 회귀분석과 분류분석
+- 20200402 - NbClust, kNN, k-means
