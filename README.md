@@ -25,3 +25,4 @@
 - 20200402 - NbClust, kNN, k-means
 - 20200403 - 특성공학, 분석할때 변수선택, 이상치
 - 20200406 - 통계, 확률, 정규분포
+- 20200407 - list, lambda, map, dbinom, pbinom, qbinom
