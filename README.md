@@ -26,3 +26,4 @@
 - 20200403 - 특성공학, 분석할때 변수선택, 이상치
 - 20200406 - 통계, 확률, 정규분포
 - 20200407 - list, lambda, map, dbinom, pbinom, qbinom
+- 20200408 - for문, series, list method, 정규분포,표준정규분포 시각화
