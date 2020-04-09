@@ -27,3 +27,4 @@
 - 20200406 - 통계, 확률, 정규분포
 - 20200407 - list, lambda, map, dbinom, pbinom, qbinom
 - 20200408 - for문, series, list method, 정규분포,표준정규분포 시각화
+- 20200409 - 표본과 모집단의 관계, 시각화, tuple, dict
