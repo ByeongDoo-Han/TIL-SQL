@@ -32,4 +32,5 @@
 - 20200413 - 사용자함수-매개변수전달방식(zip, key-value, 가변형인자), 전역변수
 - 20200414 - 통계적추론, 신뢰구간 구하기, 시각화, np.array, 행렬연산, broadcating, 행렬indexing
 - 20200416 - 가설검정, array의 형변환, 유의수준, 검정통계량
-- 20200417 - 가설검정 시각화
+- 20200417 - 가설검정, 시각화, np.where, swapaxes(), transpose(), cumsum, cumprod, argmin, np.union1d, np.intersect1d, np.setdiff1d, np.in1d, np.setxor1d, np.unique
+- 20200420 - pandas, profile, nan, series
