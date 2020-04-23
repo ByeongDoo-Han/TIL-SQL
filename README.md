@@ -35,5 +35,5 @@
 - 20200417 - 가설검정, 시각화, np.where, swapaxes(), transpose(), cumsum, cumprod, argmin, np.union1d, np.intersect1d, np.setdiff1d, np.in1d, np.setxor1d, np.unique
 - 20200420 - pandas, profile, nan, series
 - 20200421 - z-test, 가설검정방법, DataFrame, pandas NA
-- 20200422 - DataFrame apply 메서드 
+- 20200422 - DataFrame apply 메서드, sort_values()
 - 20200423 - set_index(), pd.read_csv(), t분포, t-test
