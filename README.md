@@ -37,3 +37,4 @@
 - 20200421 - z-test, 가설검정방법, DataFrame, pandas NA
 - 20200422 - DataFrame apply 메서드, sort_values()
 - 20200423 - set_index(), pd.read_csv(), t분포, t-test
+- 20200424 - multiindex, 미완성
