@@ -39,3 +39,4 @@
 - 20200423 - set_index(), pd.read_csv(), t분포, t-test
 - 20200424 - multiindex, 미완성////
 - 20200427 - stack, unstack, oracle연동
+- 20200428 - pivot table, merge, rank, 날짜파싱
