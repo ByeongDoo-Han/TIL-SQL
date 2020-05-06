@@ -40,3 +40,4 @@
 - 20200424 - multiindex, 미완성////
 - 20200427 - stack, unstack, oracle연동
 - 20200428 - pivot table, merge, rank, 날짜파싱
+- 20200506 - groupby, cut
