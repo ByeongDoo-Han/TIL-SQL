@@ -41,3 +41,5 @@
 - 20200427 - stack, unstack, oracle연동
 - 20200428 - pivot table, merge, rank, 날짜파싱
 - 20200506 - groupby, cut
+- 20200512 - 
+- 20200513 - LINUX
